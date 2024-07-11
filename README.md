@@ -31,6 +31,14 @@
 
     ![울산반 앱 화면](https://github.com/breadcoffee/Raspberrypi-Education-2022/blob/main/images/theft-prevention-app.png?raw=true)
 
+  - 학술자료
+
+    ![울산 학술요약](https://github.com/breadcoffee/Raspberrypi-Education-2022/blob/main/images/학술자료_요약(울산).png?raw=true)
+
+  - 발표 포스터
+
+    ![울산 발표포스터](https://github.com/breadcoffee/Raspberrypi-Education-2022/blob/main/images/사사발표-포스터-정보-울산.png?raw=true)
+
 울주반
 > 사물인터넷 기술을 이용한 홈 모니터링 시스템 개발
   - 주제
@@ -59,3 +67,11 @@
   - 앱 인벤터 구성화면
   
     ![울주반 앱 화면](https://github.com/breadcoffee/Raspberrypi-Education-2022/blob/main/images/home-monitoring-app.png?raw=true)
+
+  - 학술자료
+
+    ![울주 학술요약](https://github.com/breadcoffee/Raspberrypi-Education-2022/blob/main/images/학술자료_요약(울주).png?raw=true)
+
+  - 발표 포스터
+
+    ![울주 발표포스터](https://github.com/breadcoffee/Raspberrypi-Education-2022/blob/main/images/사사발표-포스터-정보-울주.png?raw=true)
